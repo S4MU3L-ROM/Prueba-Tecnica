@@ -1,7 +1,10 @@
 # Documentación prueba tecnica desarrollador junior
 
-Este pryecto se realiza para la presentación de la prueba tecnica para la empresa Verticcal
-
+Este proyecto se realiza para la presentación de la prueba técnica para la empresa Verticcal, las librerias utilizadas en el código son: 
+- FastApi: Creación de api
+- httpx: Consumo de api
+- pydantic: Validación de datos 
+- json: lectura de json
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
@@ -9,7 +12,7 @@ Este pryecto se realiza para la presentación de la prueba tecnica para la empre
   - [Clonar el Repositorio](#clonar-el-repositorio)
   - [Entorno Virtual](#entorno-virtual)
 - [Uso](#uso)
-- [Documentación](#documentación)
+- [Ejercicio extra](#Ejercicio-extra)
 
 ## Instalación
 
@@ -81,4 +84,11 @@ cd ubicacion/del/proyecto
    ```
    Dentro de las opciones de los animes tenemos las siguientes
    - Gintama: The Final
-   - 
+   - Look Back
+   - Code Geass: Hangyaku no Lelouch R2
+   - Hunter x Hunter (2011)
+   - Clannad: After Story
+   - Kusuriya no Hitorigoto
+   - One Piece Fan Letter
+  ### Ejercicio extra
+  Para la entrega del ejercicio extra se hizo un archivo llamado datos.py donde se ejecuta el archivo normalmente con el       boton run
