@@ -1,0 +1,22 @@
+[
+    {"id": 1, "name": "Ana Salcedo", "location": "Medellín", "budget": 20000000},
+    {"id": 2, "name": "Santiago Gallo", "location": "Medellín", "budget": 50000000},
+    {"id": 3, "name": "Carlota Habib", "location": "Medellín", "budget": 65000000},
+    {"id": 4, "name": "Pablo Sánchez", "location": "Bogotá", "budget": 35000000},
+    {"id": 5, "name": "Manuel Franco", "location": "Bogotá", "budget": 15000000},
+    {"id": 6, "name": "Laura Álvarez", "location": "Bogotá", "budget": 45000000},
+    {"id": 7, "name": "Fernando Ruiz", "location": "Medellín", "budget": 30000000},
+    {"id": 8, "name": "Juliana Pérez", "location": "Bogotá", "budget": 50000000},
+    {"id": 9, "name": "Andrés López", "location": "Cali", "budget": 25000000},
+    {"id": 10, "name": "Camila Rodríguez", "location": "Cali", "budget": 40000000},
+    {"id": 11, "name": "Sebastián Gómez", "location": "Medellín", "budget": 70000000},
+    {"id": 12, "name": "Marcela Ríos", "location": "Bogotá", "budget": 52000000},
+    {"id": 13, "name": "Iván Torres", "location": "Cali", "budget": 60000000},
+    {"id": 14, "name": "Natalia Castro", "location": "Medellín", "budget": 43000000},
+    {"id": 15, "name": "Carlos Vargas", "location": "Bogotá", "budget": 55000000},
+    {"id": 16, "name": "Daniela Mejía", "location": "Medellín", "budget": 27000000},
+    {"id": 17, "name": "Felipe Acosta", "location": "Bogotá", "budget": 60000000},
+    {"id": 18, "name": "Andrea Villamizar", "location": "Cali", "budget": 48000000},
+    {"id": 19, "name": "Ricardo Ramírez", "location": "Bogotá", "budget": 37000000},
+    {"id": 20, "name": "Paola Montoya", "location": "Medellín", "budget": 33000000}
+]
