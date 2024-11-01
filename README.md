@@ -8,7 +8,6 @@ Este pryecto se realiza para la presentación de la prueba tecnica para la empre
   - [Requisitos Previos](#requisitos-previos)
   - [Clonar el Repositorio](#clonar-el-repositorio)
   - [Entorno Virtual](#entorno-virtual)
-  - [Instalar Dependencias](#instalar-dependencias)
 - [Uso](#uso)
 - [Documentación](#documentación)
 
@@ -55,20 +54,20 @@ cd ubicacion/del/proyecto
    ```
 2. Para poder utilizar la api en local se recomienda el uso de postman o de thunder esta ultima es una extensión en visual studio code.
 3. Las siguientes urls son los get y post del codigo
-   # Get
-   *Endpoint GET que devuelve todos los animes más populares*
-   ```sh
-    http://127.0.0.1:8000/top-anime
-   ```
+#### Get
+  *Endpoint GET que devuelve todos los animes más populares*
+  ```sh
+  http://127.0.0.1:8000/top-anime
+  ```
   *Endpoint GET que devuelve solo los títulos de los animes*
    ```sh
     http://127.0.0.1:8000/top-anime-title
    ```
-   *Endpoint GET que devuelve la información de paginación*
-   ```sh
-    http://127.0.0.1:8000/top-anime-pagination
-   ```
-  # Post
+  *Endpoint GET que devuelve la información de paginación*
+  ```sh
+   http://127.0.0.1:8000/top-anime-pagination
+  ```
+  #### Post
   *Endpoint POST que permite buscar un anime por su título*
    ```sh
     http://127.0.0.1:8000/search-title
